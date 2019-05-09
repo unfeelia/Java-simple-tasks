@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be399052-5bfa-425f-85ef-1a07fb2b122f" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/dima/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/collections/Stack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="37" />
+              <folding>
+                <element signature="method#push#0;class#Stack#0" />
+                <element signature="method#pop#0;class#Stack#0" />
+                <element signature="method#peek#0;class#Stack#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/collections/LinnearList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#LinnearList#0;class#LinnearList#0" />
+                <element signature="method#contains#0;class#LinnearList#0" />
+                <element signature="e#742#800#1" />
+                <element signature="e#846#847#0" expanded="true" />
+                <element signature="method#toArray#0;class#LinnearList#0" />
+                <element signature="e#1072#1130#1" />
+                <element signature="e#1160#1161#0" expanded="true" />
+                <element signature="method#add#0;class#LinnearList#0" />
+                <element signature="e#1312#1341#1" />
+                <element signature="e#1712#1713#0" expanded="true" />
+                <element signature="e#1397#1426#1" />
+                <element signature="e#1826#1827#0" expanded="true" />
+                <element signature="e#1493#1522#1" />
+                <element signature="e#1951#1952#0" expanded="true" />
+                <element signature="e#1825#1883#1" />
+                <element signature="e#2049#2050#0" expanded="true" />
+                <element signature="e#1629#1658#1" />
+                <element signature="e#2166#2167#0" expanded="true" />
+                <element signature="e#1717#1746#1" />
+                <element signature="e#2283#2284#0" expanded="true" />
+                <element signature="e#1807#1836#1" />
+                <element signature="e#2402#2403#0" expanded="true" />
+                <element signature="method#get#0;class#LinnearList#0" />
+                <element signature="e#2114#2142#1" />
+                <element signature="e#2773#2774#0" expanded="true" />
+                <element signature="method#add#1;class#LinnearList#0" />
+                <element signature="method#remove#1;class#LinnearList#0" />
+                <element signature="e#3308#3333#1" />
+                <element signature="e#4186#4187#0" expanded="true" />
+                <element signature="e#3386#3411#1" />
+                <element signature="e#4297#4298#0" expanded="true" />
+                <element signature="e#3466#3494#1" />
+                <element signature="e#4410#4411#0" expanded="true" />
+                <element signature="e#3558#3586#1" />
+                <element signature="e#4532#4533#0" expanded="true" />
+                <element signature="e#3654#3682#1" />
+                <element signature="e#4658#4659#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/LinearList/LinearList" />
+        <option value="$PROJECT_DIR$/src/LinnearList.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Stack.java" />
+        <option value="$PROJECT_DIR$/src/Collections/LinnearList.java" />
+        <option value="$PROJECT_DIR$/src/com/dima/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="989" />
+    <option name="y" value="222" />
+    <option name="width" value="548" />
+    <option name="height" value="658" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="task2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="task2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="task2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="task2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dima" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557268526866" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Downloads\JAVA\Task_2. Linnear List\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.dima.Main" />
+      <module name="Task_2. Linnear List" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be399052-5bfa-425f-85ef-1a07fb2b122f" name="Default Changelist" comment="" />
+      <created>1556191521002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556191521002</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="72" y="-8" width="1536" height="916" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25677508" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32908162" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LinearList/LL" />
+    <entry file="file://$PROJECT_DIR$/src/collections/LinnearList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#LinnearList#0;class#LinnearList#0" />
+            <element signature="method#contains#0;class#LinnearList#0" />
+            <element signature="e#742#800#1" />
+            <element signature="e#846#847#0" expanded="true" />
+            <element signature="method#toArray#0;class#LinnearList#0" />
+            <element signature="e#1072#1130#1" />
+            <element signature="e#1160#1161#0" expanded="true" />
+            <element signature="method#add#0;class#LinnearList#0" />
+            <element signature="e#1312#1341#1" />
+            <element signature="e#1712#1713#0" expanded="true" />
+            <element signature="e#1397#1426#1" />
+            <element signature="e#1826#1827#0" expanded="true" />
+            <element signature="e#1493#1522#1" />
+            <element signature="e#1951#1952#0" expanded="true" />
+            <element signature="e#1825#1883#1" />
+            <element signature="e#2049#2050#0" expanded="true" />
+            <element signature="e#1629#1658#1" />
+            <element signature="e#2166#2167#0" expanded="true" />
+            <element signature="e#1717#1746#1" />
+            <element signature="e#2283#2284#0" expanded="true" />
+            <element signature="e#1807#1836#1" />
+            <element signature="e#2402#2403#0" expanded="true" />
+            <element signature="method#get#0;class#LinnearList#0" />
+            <element signature="e#2114#2142#1" />
+            <element signature="e#2773#2774#0" expanded="true" />
+            <element signature="method#add#1;class#LinnearList#0" />
+            <element signature="method#remove#1;class#LinnearList#0" />
+            <element signature="e#3308#3333#1" />
+            <element signature="e#4186#4187#0" expanded="true" />
+            <element signature="e#3386#3411#1" />
+            <element signature="e#4297#4298#0" expanded="true" />
+            <element signature="e#3466#3494#1" />
+            <element signature="e#4410#4411#0" expanded="true" />
+            <element signature="e#3558#3586#1" />
+            <element signature="e#4532#4533#0" expanded="true" />
+            <element signature="e#3654#3682#1" />
+            <element signature="e#4658#4659#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="37" />
+          <folding>
+            <element signature="method#push#0;class#Stack#0" />
+            <element signature="method#pop#0;class#Stack#0" />
+            <element signature="method#peek#0;class#Stack#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dima/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
